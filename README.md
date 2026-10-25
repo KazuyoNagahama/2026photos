@@ -1,4 +1,4 @@
-# CUC-Phots
+# CUC-Photos
 
 ## Description
 　　CUC-EVENTのGitHub
